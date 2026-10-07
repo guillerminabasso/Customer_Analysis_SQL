@@ -1,0 +1,5 @@
+.metadata/
+.settings/
+.project
+__pycache__/
+.ipynb_checkpoints/
